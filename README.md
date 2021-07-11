@@ -15,6 +15,12 @@ the portfolio is made using the following fron-end web technologies:
 * css
 * vanilla js
 
+## portfolio structure
+the portfolio is divided into 3 sections.
+1. the Home section
+1. the Work section
+1. the Contact section
+
 to see the webpage. click on [this link](https://ismailpervez.netlify.app)
 
 
